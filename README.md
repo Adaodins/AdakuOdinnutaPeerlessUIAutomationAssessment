@@ -30,5 +30,4 @@ This repository contains Cypress automation tests for \[SauceDemo](https://www.s
 
 \- `node\_modules` is ignored
 
-\- Screenshots saved in `cypress/screenshots`
 
